@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primera web en producción</title>
+</head>
+<body>
+    <h1>¡Hola mundo! Esta web está viva.</h1>
+    <h2>web actualizada</h2>
+    <?php
+        echo "hola php";
+    ?>
+</body>
+</html>
